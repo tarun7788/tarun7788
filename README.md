@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tarun7788
 - 👀 I’m interested in so Many things one of them is development.
 - 🌱 I’m currently learning DSA.
-- 💞️ I’m looking to collaborate with microsoft 😉
 - 📫 you can contact me on inta: tarun.s._
 
 <!---
